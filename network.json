@@ -1,0 +1,1090 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "name": "Shargorod_MPLS",
+      "vendor": "MPLS",
+      "city": "Shargorod",
+      "ip": "10.255.253.1"
+    },
+    {
+      "id": 2,
+      "name": "Huawei-Shargorod",
+      "vendor": "Huawei",
+      "city": "Shargorod",
+      "ip": "192.168.253.1"
+    },
+    {
+      "id": 3,
+      "name": "BDcom-MurKur",
+      "vendor": "BDcom",
+      "city": "MurKur",
+      "ip": "10.255.0.120"
+    },
+    {
+      "id": 4,
+      "name": "BDcom-Kotyuzhany",
+      "vendor": "BDcom",
+      "city": "Kotyuzhany",
+      "ip": "10.255.0.119"
+    },
+    {
+      "id": 5,
+      "name": "BDcom-Shargorod",
+      "vendor": "BDcom",
+      "city": "Shargorod",
+      "ip": "10.255.4.26"
+    },
+    {
+      "id": 6,
+      "name": "BDcom-Pysarivka",
+      "vendor": "BDcom",
+      "city": "Pysarivka",
+      "ip": "10.255.0.101"
+    },
+    {
+      "id": 7,
+      "name": "BDcom-Kopystyryn",
+      "vendor": "BDcom",
+      "city": "Kopystyryn",
+      "ip": "10.255.4.3"
+    },
+    {
+      "id": 8,
+      "name": "BDcom-Shargorod",
+      "vendor": "BDcom",
+      "city": "Shargorod",
+      "ip": "10.255.4.4"
+    },
+    {
+      "id": 9,
+      "name": "MikroTik-MurKur",
+      "vendor": "MikroTik",
+      "city": "MurKur",
+      "ip": "192.168.202.47"
+    },
+    {
+      "id": 11,
+      "name": "BDcom-Dereshova",
+      "vendor": "BDcom",
+      "city": "Dereshova",
+      "ip": "10.255.4.45"
+    },
+    {
+      "id": 12,
+      "name": "BDcom-Kozlivka",
+      "vendor": "BDcom",
+      "city": "Kozlivka",
+      "ip": "10.255.4.98"
+    },
+    {
+      "id": 13,
+      "name": "BDcom-MurKur",
+      "vendor": "BDcom",
+      "city": "MurKur",
+      "ip": "10.255.0.150"
+    },
+    {
+      "id": 14,
+      "name": "BDcom-MurKur",
+      "vendor": "BDcom",
+      "city": "MurKur",
+      "ip": "10.255.0.86"
+    },
+    {
+      "id": 15,
+      "name": "BDcom-Gybalivka",
+      "vendor": "BDcom",
+      "city": "Gybalivka",
+      "ip": "10.255.4.92"
+    },
+    {
+      "id": 16,
+      "name": "BDcom8-Sapizhanka",
+      "vendor": "BDcom",
+      "city": "Sapizhanka",
+      "ip": "10.255.4.82"
+    },
+    {
+      "id": 17,
+      "name": "VPLS_Huawei-Chechelnyk",
+      "vendor": "Huawei_MPLS",
+      "city": "Chechelnyk",
+      "ip": "10.255.253.17"
+    },
+    {
+      "id": 18,
+      "name": "MikroTik-Chechelnyk",
+      "vendor": "MikroTik",
+      "city": "Chechelnyk",
+      "ip": "192.168.253.17"
+    },
+    {
+      "id": 19,
+      "name": "BDcom-Kurenivka",
+      "vendor": "BDcom",
+      "city": "Kurenivka",
+      "ip": "10.255.4.25"
+    },
+    {
+      "id": 20,
+      "name": "MikroTik-Litun",
+      "vendor": "MikroTik",
+      "city": "Litun",
+      "ip": "10.255.253.19"
+    },
+    {
+      "id": 21,
+      "name": "D-Link-Litun",
+      "vendor": "D-Link",
+      "city": "Litun",
+      "ip": "192.168.253.19"
+    },
+    {
+      "id": 22,
+      "name": "BDcom-Litunka",
+      "vendor": "BDcom",
+      "city": "Litunka",
+      "ip": "10.255.4.34"
+    },
+    {
+      "id": 23,
+      "name": "VPLS_Huawei-V.Bushinka",
+      "vendor": "Huawei_MPLS",
+      "city": "V.Bushinka",
+      "ip": "10.255.253.21"
+    },
+    {
+      "id": 24,
+      "name": "Huawei-V.Bushinka",
+      "vendor": "Huawei",
+      "city": "V.Bushinka",
+      "ip": "192.168.253.21"
+    },
+    {
+      "id": 25,
+      "name": "BDcom-Sokilets",
+      "vendor": "BDcom",
+      "city": "Sokilets",
+      "ip": "10.255.4.35"
+    },
+    {
+      "id": 26,
+      "name": "VPLS_Huawei-Kryzhopil",
+      "vendor": "Huawei_MPLS",
+      "city": "Kryzhopil",
+      "ip": "10.255.253.18"
+    },
+    {
+      "id": 27,
+      "name": "Cisco-Kryzhopil",
+      "vendor": "Cisco",
+      "city": "Kryzhopil",
+      "ip": "192.168.253.9"
+    },
+    {
+      "id": 28,
+      "name": "BDcom-Kryklyvets",
+      "vendor": "BDcom",
+      "city": "Kryklyvets",
+      "ip": "10.255.4.39"
+    },
+    {
+      "id": 29,
+      "name": "MPLS_MikroTik-Vinnytsia",
+      "vendor": "MPLS_MikroTik",
+      "city": "Vinnytsia",
+      "ip": "10.255.253.50"
+    },
+    {
+      "id": 30,
+      "name": "Cisco-Vinnytsia",
+      "vendor": "Cisco",
+      "city": "Vinnytsia",
+      "ip": "192.168.103.102"
+    },
+    {
+      "id": 31,
+      "name": "Edge-core-Petryk",
+      "vendor": "Edge-core",
+      "city": "Petryk",
+      "ip": "192.168.101.141"
+    },
+    {
+      "id": 32,
+      "name": "BDcom-Petryk",
+      "vendor": "BDcom",
+      "city": "Petryk",
+      "ip": "10.255.0.110"
+    },
+    {
+      "id": 33,
+      "name": "BDcom-Balyn",
+      "vendor": "BDcom",
+      "city": "Balyn",
+      "ip": "10.255.4.89"
+    },
+    {
+      "id": 34,
+      "name": "BDcom-Osolynka",
+      "vendor": "BDcom",
+      "city": "Osolynka",
+      "ip": "10.255.4.38"
+    },
+    {
+      "id": 35,
+      "name": "BDcom-Bagrunivtsi",
+      "vendor": "BDcom",
+      "city": "Bagrunivtsi",
+      "ip": "10.255.4.23"
+    },
+    {
+      "id": 36,
+      "name": "MPLS_Mikrotik-Bohonyky",
+      "vendor": "MPLS_Mikrotik",
+      "city": "Bohonyky",
+      "ip": "10.255.253.51"
+    },
+    {
+      "id": 37,
+      "name": "Edge-core-Bohonyky",
+      "vendor": "Edge-core",
+      "city": "Bohonyky",
+      "ip": "192.168.253.51"
+    },
+    {
+      "id": 38,
+      "name": "BDcom_GP-Nekrasove",
+      "vendor": "BDcom_GP",
+      "city": "Nekrasove",
+      "ip": "10.255.0.186"
+    },
+    {
+      "id": 39,
+      "name": "BDcom-Nekrasove",
+      "vendor": "BDcom",
+      "city": "Nekrasove",
+      "ip": "10.255.0.76"
+    },
+    {
+      "id": 40,
+      "name": "BDcom-Mukyluntsi",
+      "vendor": "BDcom",
+      "city": "Mukyluntsi",
+      "ip": "10.255.4.72"
+    },
+    {
+      "id": 41,
+      "name": "VPLS_Huawei-Pogrebysche",
+      "vendor": "Huawei_MPLS",
+      "city": "Pogrebysche",
+      "ip": "10.255.253.11"
+    },
+    {
+      "id": 42,
+      "name": "BDcom-Dzyunkiv",
+      "vendor": "BDcom",
+      "city": "Dzyunkiv",
+      "ip": "10.255.4.16"
+    },
+    {
+      "id": 43,
+      "name": "Edge-core-Gorodkivka",
+      "vendor": "Edge-core",
+      "city": "Gorodkivka",
+      "ip": "192.168.202.46"
+    },
+    {
+      "id": 44,
+      "name": "MikroTik-Yampil",
+      "vendor": "MikroTik",
+      "city": "Yampil",
+      "ip": "192.168.202.43"
+    },
+    {
+      "id": 45,
+      "name": "BDcom-Yampil",
+      "vendor": "BDcom",
+      "city": "Yampil",
+      "ip": "10.255.4.47"
+    },
+    {
+      "id": 46,
+      "name": "BDcom-Vinnytsia",
+      "vendor": "BDcom",
+      "city": "Vinnytsia",
+      "ip": "10.255.4.97"
+    },
+    {
+      "id": 47,
+      "name": "Huawei-Florino",
+      "vendor": "Huawei_MPLS",
+      "city": "Florino",
+      "ip": "10.255.253.14"
+    },
+    {
+      "id": 48,
+      "name": "Edge-core-Florino",
+      "vendor": "Edge-core",
+      "city": "Florino",
+      "ip": "192.168.253.14"
+    },
+    {
+      "id": 49,
+      "name": "BDcom-Potashnya",
+      "vendor": "BDcom",
+      "city": "Potashnya",
+      "ip": "10.255.4.41"
+    },
+    {
+      "id": 50,
+      "name": "BDcom-Plyskiv",
+      "vendor": "BDcom",
+      "city": "Plyskiv",
+      "ip": "10.255.4.73"
+    },
+    {
+      "id": 51,
+      "name": "Yarushivka",
+      "vendor": "Huawei_MPLS",
+      "city": "Yarushivka",
+      "ip": "10.255.253.13"
+    },
+    {
+      "id": 52,
+      "name": "Edge-core-Yarushivka",
+      "vendor": "Edge-core",
+      "city": "Yarushivka",
+      "ip": "192.168.253.13"
+    },
+    {
+      "id": 53,
+      "name": "BDcom-Yarushivka",
+      "vendor": "BDcom",
+      "city": "Yarushivka",
+      "ip": "10.255.4.91"
+    },
+    {
+      "id": 54,
+      "name": "Tyvriv",
+      "vendor": "Huawei_MPLS",
+      "city": "Tyvriv",
+      "ip": "10.255.253.5"
+    },
+    {
+      "id": 55,
+      "name": "MikroTik-Tyvriv",
+      "vendor": "MikroTik",
+      "city": "Tyvriv",
+      "ip": "192.168.253.5"
+    },
+    {
+      "id": 56,
+      "name": "Edge-Core-Tyvriv",
+      "vendor": "Edge-Core",
+      "city": "Tyvriv",
+      "ip": "192.168.101.73"
+    },
+    {
+      "id": 57,
+      "name": "Edge-Core-Rahny-Lisovi",
+      "vendor": "Edge-Core",
+      "city": "Rahny-Lisovi",
+      "ip": "192.168.101.122"
+    },
+    {
+      "id": 58,
+      "name": "MikroTik-Strilnyky",
+      "vendor": "MikroTik",
+      "city": "Strilnyky",
+      "ip": "10.202.30.164"
+    },
+    {
+      "id": 59,
+      "name": "BDcom-Strilnyky",
+      "vendor": "BDcom",
+      "city": "Strilnyky",
+      "ip": "10.255.0.182"
+    },
+    {
+      "id": 60,
+      "name": "BDcom-Litun",
+      "vendor": "BDcom",
+      "city": "Litun",
+      "ip": "10.255.0.103"
+    },
+    {
+      "id": 61,
+      "name": "VPLS_Huawei-Lypovets",
+      "vendor": "Huawei_MPLS",
+      "city": "Lypovets",
+      "ip": "10.255.253.10"
+    },
+    {
+      "id": 62,
+      "name": "Edge-core-Lypovets",
+      "vendor": "Edge-core",
+      "city": "Lypovets",
+      "ip": "192.168.253.10"
+    },
+    {
+      "id": 63,
+      "name": "BDcom_8-Lukashivka",
+      "vendor": "BDcom_8",
+      "city": "Lukashivka",
+      "ip": "10.255.4.68"
+    },
+    {
+      "id": 64,
+      "name": "BDcom-Zoziv",
+      "vendor": "BDcom",
+      "city": "Zoziv",
+      "ip": "10.255.0.185"
+    },
+    {
+      "id": 65,
+      "name": "BDcom-Pogrebysche",
+      "vendor": "BDcom",
+      "city": "Pogrebysche",
+      "ip": "10.255.4.146"
+    },
+    {
+      "id": 66,
+      "name": "VPLS_Huawei-Krasnopilka",
+      "vendor": "Huawei_MPLS",
+      "city": "Krasnopilka",
+      "ip": "10.255.253.23"
+    },
+    {
+      "id": 67,
+      "name": "MikroTik-Krasnopilka",
+      "vendor": "MikroTik",
+      "city": "Krasnopilka",
+      "ip": "192.168.101.27"
+    },
+    {
+      "id": 68,
+      "name": "BDcom-Naraivka",
+      "vendor": "BDcom",
+      "city": "Naraivka",
+      "ip": "10.255.4.90"
+    },
+    {
+      "id": 69,
+      "name": "MPLS_MikroTik-Hmilnyk",
+      "vendor": "MikroTik_MPLS",
+      "city": "Hmilnyk",
+      "ip": "10.255.253.15"
+    },
+    {
+      "id": 70,
+      "name": "BDcom-Hmilnyk",
+      "vendor": "BDcom",
+      "city": "Hmilnyk",
+      "ip": "10.255.0.83"
+    },
+    {
+      "id": 71,
+      "name": "BDcom-Dovgopolivka",
+      "vendor": "BDcom",
+      "city": "Dovgopolivka",
+      "ip": "10.255.4.119"
+    },
+    {
+      "id": 72,
+      "name": "BDcom-MurKur",
+      "vendor": "BDcom",
+      "city": "MurKur",
+      "ip": "10.255.0.178"
+    },
+    {
+      "id": 73,
+      "name": "MikroTik-Shkurynci",
+      "vendor": "MikroTik",
+      "city": "Shkurynci",
+      "ip": "10.255.253.52"
+    },
+    {
+      "id": 74,
+      "name": "BDcom-Shkurynci",
+      "vendor": "BDcom",
+      "city": "Shkurynci",
+      "ip": "10.255.0.64"
+    },
+    {
+      "id": 75,
+      "name": "MikroTik-Bershad",
+      "vendor": "MikroTik",
+      "city": "Bershad",
+      "ip": "192.168.202.251"
+    },
+    {
+      "id": 76,
+      "name": "BDcom-Bershad",
+      "vendor": "BDcom",
+      "city": "Bershad",
+      "ip": "10.255.0.125"
+    },
+    {
+      "id": 77,
+      "name": "BDcom-Ochytkiv",
+      "vendor": "BDcom",
+      "city": "Ochytkiv",
+      "ip": "10.255.4.77"
+    },
+    {
+      "id": 78,
+      "name": "MPLS MikroTik-Illintsi",
+      "vendor": "MPLS MikroTik",
+      "city": "Illintsi",
+      "ip": "10.255.253.8"
+    },
+    {
+      "id": 79,
+      "name": "EdgeCore-Illintsi",
+      "vendor": "EdgeCore",
+      "city": "Illintsi",
+      "ip": "192.168.253.8"
+    },
+    {
+      "id": 80,
+      "name": "BDcom-Illintsi",
+      "vendor": "BDcom",
+      "city": "Illintsi",
+      "ip": "10.255.0.77"
+    },
+    {
+      "id": 81,
+      "name": "Huawei-Jmerinka",
+      "vendor": "Huawei",
+      "city": "Jmerinka",
+      "ip": "192.168.253.56"
+    },
+    {
+      "id": 82,
+      "name": "MikroTik-Jmerinka",
+      "vendor": "MikroTik",
+      "city": "Jmerinka",
+      "ip": "10.255.253.56"
+    },
+    {
+      "id": 83,
+      "name": "BDcom-Jmerinka",
+      "vendor": "BDcom",
+      "city": "Jmerinka",
+      "ip": "10.255.0.191"
+    },
+    {
+      "id": 84,
+      "name": "MPLS_MikroTik-Tulchin",
+      "vendor": "MPLS_MikroTik",
+      "city": "Tulchin",
+      "ip": "10.255.253.54"
+    },
+    {
+      "id": 85,
+      "name": "D-Link-Tulchin",
+      "vendor": "D-Link",
+      "city": "Tulchin",
+      "ip": "192.168.253.54"
+    },
+    {
+      "id": 86,
+      "name": "BDcom-Tulchin",
+      "vendor": "BDcom",
+      "city": "Tulchin",
+      "ip": "10.255.0.190"
+    },
+    {
+      "id": 87,
+      "name": "BDcom-Vyshkivtsi",
+      "vendor": "BDcom",
+      "city": "Vyshkivtsi",
+      "ip": "10.255.0.222"
+    },
+    {
+      "id": 88,
+      "name": "BDcom-Shyrmivka",
+      "vendor": "BDcom",
+      "city": "Shyrmivka",
+      "ip": "10.255.4.24"
+    },
+    {
+      "id": 89,
+      "name": "BDcom-Ostapkivtsi",
+      "vendor": "BDcom",
+      "city": "Ostapkivtsi",
+      "ip": "10.255.4.37"
+    },
+    {
+      "id": 90,
+      "name": "BDCOM-c.Trost",
+      "vendor": "BDCOM",
+      "city": "c.Trost",
+      "ip": "10.255.4.75"
+    },
+    {
+      "id": 91,
+      "name": "Huawei-Tepluk",
+      "vendor": "Huawei_MPLS",
+      "city": "Tepluk",
+      "ip": "10.255.253.4"
+    },
+    {
+      "id": 92,
+      "name": "Huawei_MPLS-Sokilets",
+      "vendor": "Huawei_MPLS",
+      "city": "Sokilets",
+      "ip": "10.255.253.2"
+    },
+    {
+      "id": 93,
+      "name": "Huawei_MPLS-smt_Trost",
+      "vendor": "Huawei_MPLS",
+      "city": "smt_Trost",
+      "ip": "10.255.253.3"
+    },
+    {
+      "id": 94,
+      "name": "Huawei_MPLS-Djylinka",
+      "vendor": "Huawei_MPLS",
+      "city": "Djylinka",
+      "ip": "10.255.253.12"
+    },
+    {
+      "id": 95,
+      "name": "Huawei_MPLS-Vin",
+      "vendor": "Huawei_MPLS",
+      "city": "Vin",
+      "ip": "10.255.253.200"
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 9,
+      "target": 13,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 2,
+      "target": 16,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 21,
+      "target": 35,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "souce_capacity": "10G,10G",
+      "target_capacity": "1G,10G"
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 27,
+      "target": 43,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "souce_capacity": "1G (free 1x10G)",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 30,
+      "target": 46,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 41,
+      "target": 50,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "souce_capacity": "10G,10G",
+      "target_capacity": "10G,10G"
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "souce_capacity": "1G (free: 2x10G)",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "souce_capacity": "airFiber 11FX",
+      "target_capacity": "airFiber 11FX"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "souce_capacity": "F300-25",
+      "target_capacity": "F300-25"
+    },
+    {
+      "source": 58,
+      "target": 59,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 21,
+      "target": 60,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "souce_capacity": "1G (free 2x10G)",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 41,
+      "target": 65,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 66,
+      "target": 67,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 69,
+      "target": 70,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 55,
+      "target": 71,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 13,
+      "target": 72,
+      "souce_capacity": "1G (free 2x10G)",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 73,
+      "target": 74,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 48,
+      "target": 75,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 41,
+      "target": 77,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 81,
+      "target": 82,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 82,
+      "target": 83,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 84,
+      "target": 85,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 85,
+      "target": 86,
+      "souce_capacity": "1G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 24,
+      "target": 87,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 41,
+      "target": 88,
+      "souce_capacity": "10G",
+      "target_capacity": "1G"
+    },
+    {
+      "source": 24,
+      "target": 89,
+      "souce_capacity": "20G",
+      "target_capacity": "2G"
+    },
+    {
+      "source": 55,
+      "target": 90,
+      "souce_capacity": "10G",
+      "target_capacity": "10G"
+    }
+  ]
+}
