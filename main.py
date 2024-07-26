@@ -68,7 +68,7 @@ def highlight_path(net, devices, target_ip):
 def main(file_path, target_ip):
     data = load_network_data(file_path)
     net, devices = build_network_graph(data)
-    highlight_path(net, devices, target_ip)
+    #highlight_path(net, devices, target_ip)
     net.show('network.html', notebook=False)
 
 # Example usage
